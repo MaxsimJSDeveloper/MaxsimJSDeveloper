@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Holovko Maksym
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Frontend Developer
 
@@ -16,9 +16,7 @@ Experience
   <a href="https://github.com/dereknguyen269?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0">
 </p>
 <a href="#dereknguyen269-title">
   <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
