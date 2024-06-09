@@ -4,11 +4,10 @@
 
 I'm a passionate web developer with a strong foundation in JavaScript and React. My journey into the world of programming began with a keen interest in web development, and since then, I've been on an exciting learning curve, constantly honing my skills and exploring new technologies.
 
-- 🌍 I'm based in Kharkiv, Ukraine
-- 🖥️ See my portfolio at [Illusium](http://maxsimjsdeveloper.github.io/Illusium/)
-- ✉️ You can contact me at [https://t.me/JsWEB_Developer](mailto:https://t.me/JsWEB_Developer)
-- 🧠 I'm learning Node.js
-- 🤝 I'm open to collaborating on Interesting projects
+Experience
+🚀 I have hands-on experience working on commercial projects where I've leveraged my expertise in JavaScript and React to bring website designs to life. Collaborating closely with designers and other team members, I've been involved in every stage of the development process, from concept to deployment.
+
+👨‍💻 During my academic journey, I actively participated in team projects, taking on various roles such as team leader, scrum master, and developer. These experiences not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
 <p align="left">
   <a href="https://github.com/dereknguyen269">
@@ -40,7 +39,7 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 **Learning:**
 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="Node.js" width="50"><img src="icons/node.png" /></a>
+<a href="https://nodejs.org/en" title="Node.js"><img src="icons/node.png" width="50"/></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
