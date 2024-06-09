@@ -26,22 +26,28 @@ Experience
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](http://www.linkedin.com/in/maksymholovko/)
+[![GitHub](icons/github.png)](https://github.com/MaxsimJSDeveloper)
+[![LinkedIn](icons/linkedIn.webp)](http://www.linkedin.com/in/maksymholovko/)
+[![Telegram](icons/tg.png)](https://t.me/JsWEB_Developer)
 
-**Currently working with:**
+**Technologies**
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" width="30"/></a>
+<a href="https://www.javascript.com/" title="JavaScript"><img src="icons/js.png" width="30"/></a>
+<a href="https://html.com/" title="HTML"><img src="icons/html.png" width="30"/></a>
+<a href="https://css.in.ua/" title="CSS"><img src="icons/css.png" width="30"/></a>
+<a href="https://www.npmjs.com/" title="NPM"><img src="icons/npm.png" width="30"/></a>
 
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+**Working with:**
+
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" width="30"/></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" width="30"/></a>
+<a href="https://vitejs.dev/" title="Vite"><img src="icons/vite.png" width="30"/></a>
+<a href="https://www.figma.com/" title="Figma"><img src="icons/figma.png" width="30"/></a>
 
 **Learning:**
 
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://nodejs.org/en" title="Node.js"><img src="icons/node.png" width="50"/></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" width="30"/></a>
+<a href="https://nodejs.org/en" title="Node.js"><img src="icons/node.png" width="30"/></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" width="30"/></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
