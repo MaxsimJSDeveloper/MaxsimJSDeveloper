@@ -52,7 +52,7 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 
 🎯 My ultimate goal is to excel in frontend development, continuously pushing the boundaries of what's possible on the web. I thrive in environments where I can tackle new challenges, learn from my peers, and contribute my skills to impactful projects. Whether it's mastering the latest frontend frameworks or delving into UX design principles, I'm always eager to expand my knowledge and skill set.
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><div style="text-align:center;">
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 </div>
