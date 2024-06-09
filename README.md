@@ -25,12 +25,10 @@ Experience
 </a>
 
 **Social Media:**
+<a href="https://t.me/JsWEB_Developer" title="Telegram" target="blank"><img src="icons/tg.png" width="30"/></a>
+<a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="blank"><img src="icons/linkedIn.webp" width="30"/></a>
 
-[![GitHub](icons/github.png)](https://github.com/MaxsimJSDeveloper)
-[![LinkedIn](icons/linkedIn.webp)](http://www.linkedin.com/in/maksymholovko/)
-[![Telegram](icons/tg.png)](https://t.me/JsWEB_Developer)
-
-**Technologies**
+**Technologies:**
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" width="30"/></a>
 <a href="https://www.javascript.com/" title="JavaScript"><img src="icons/js.png" width="30"/></a>
 <a href="https://html.com/" title="HTML"><img src="icons/html.png" width="30"/></a>
@@ -38,16 +36,16 @@ Experience
 <a href="https://www.npmjs.com/" title="NPM"><img src="icons/npm.png" width="30"/></a>
 
 **Working with:**
-
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" width="30"/></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" width="30"/></a>
 <a href="https://vitejs.dev/" title="Vite"><img src="icons/vite.png" width="30"/></a>
 <a href="https://www.figma.com/" title="Figma"><img src="icons/figma.png" width="30"/></a>
 
 **Learning:**
-
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" width="30"/></a>
 <a href="https://nodejs.org/en" title="Node.js"><img src="icons/node.png" width="30"/></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" width="30"/></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/sql.png" width="30"/></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" width="30"/></a>
+<a href="https://developer.wordpress.org/" title="Wordpress"><img src="icons/wordpress.png" width="30"/></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
