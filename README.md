@@ -33,6 +33,7 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 <a href="https://github.com/" title="GitHub" target="_blank"><img src="icons/github.png" width="30"/></a>
 <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30"/></a>
 <a href="https://www.npmjs.com/" title="NPM" target="_blank"><img src="icons/npm.png" width="30"/></a>
+<a href="https://www.mamp.info/en/mamp/mac/" title="Mamp" target="_blank"><img src="icons/mamp.png" width="30"/></a>
 <a href="https://git-scm.com/" title="Git" target="_blank"><img src="icons/git.png" width="30"/></a>
 
 **Learning:**
