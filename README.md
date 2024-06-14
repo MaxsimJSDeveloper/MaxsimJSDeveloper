@@ -13,7 +13,7 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 <p align="left">
 
 <p align="left">
-<a href="https://codetime.dev/ua/dashboard" target="_blank">
+<a href="https://codetime.dev/ua/dashboard"target="_blank">
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0">
 </a>
 </p>
