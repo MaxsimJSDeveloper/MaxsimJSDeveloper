@@ -11,7 +11,13 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 👨‍💻 During my academic journey, I actively participated in team projects, taking on various roles such as team leader, scrum master, and developer. These experiences not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
 <p align="left">
+
+<p align="left">
+<a href="https://codetime.dev/ua/dashboard" target="_blank">
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0">
+</a>
+</p>
+
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" />
@@ -34,6 +40,7 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30"/></a>
 <a href="https://www.npmjs.com/" title="NPM" target="_blank"><img src="icons/npm.png" width="30"/></a>
 <a href="https://www.mamp.info/en/mamp/mac/" title="Mamp" target="_blank"><img src="icons/mamp.png" width="30"/></a>
+<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30"/></a>
 <a href="https://git-scm.com/" title="Git" target="_blank"><img src="icons/git.png" width="30"/></a>
 
 **Learning:**
