@@ -11,13 +11,12 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 👨‍💻 During my academic journey, I actively participated in team projects, taking on various roles such as team leader, scrum master, and developer. These experiences not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
 <p align="left">
-
-<p align="left">
-<a href="https://codetime.dev/ua/dashboard"target="_blank">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0">
+<a href="https://codetime.dev/ua/dashboard" target="_blank">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0" height="20">
 </a>
-</p>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MaxsimJSDeveloper&label=Profile%20Views&pretty=true" height="20"/>
+</a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" />
@@ -29,6 +28,7 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 **Technologies:**
 
 <a href="https://reactjs.org/" title="React" target="_blank"><img src="icons/react.png" width="30"/></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="icons/typescript.png" width="30"/></a>
 <a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="icons/js.png" width="30"/></a>
 <a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="30"/></a>
 <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="30"/></a>
@@ -45,11 +45,10 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 
 **Learning:**
 
-<a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="icons/typescript.png" width="30"/></a>
 <a href="https://nodejs.org/en" title="Node.js" target="_blank"><img src="icons/node.png" width="30"/></a>
 <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="30"/></a>
 <a href="https://www.php.net/" title="PHP" target="_blank"><img src="icons/php.png" width="30"/></a>
-<a href="https://developer.wordpress.org/" title="Wordpress" target="_blank"><img src="icons/wordpress.png" width="30"/></a>
+<a href="https://developer.wordpress.org/" title="Wordpress" target="_blank"><img src="icons/wordpress.png" height="30"/></a>
 
 **Contacts:**
 
