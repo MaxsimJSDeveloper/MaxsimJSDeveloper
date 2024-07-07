@@ -32,6 +32,7 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 <a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="icons/js.png" width="30"/></a>
 <a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="30"/></a>
 <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="30"/></a>
+<a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="30"/></a>
 
 **Working with:**
 
@@ -40,6 +41,7 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30"/></a>
 <a href="https://www.npmjs.com/" title="NPM" target="_blank"><img src="icons/npm.png" width="30"/></a>
 <a href="https://www.mamp.info/en/mamp/mac/" title="Mamp" target="_blank"><img src="icons/mamp.png" width="30"/></a>
+<a href="https://www.postman.com/" title="Postman" target="_blank"><img src="icons/postman.png" width="30"/></a>
 <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30"/></a>
 <a href="https://git-scm.com/" title="Git" target="_blank"><img src="icons/git.png" width="30"/></a>
 
@@ -52,14 +54,16 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 
 **Contacts:**
 
+<div style="display: flex; align-items: center;">
 <a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="30"/></a>
 <a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="30"/></a>
+<a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="45" height="45"/></a></div>
 
 ## Career Goals
 
 🎯 My ultimate goal is to excel in frontend development, continuously pushing the boundaries of what's possible on the web. I thrive in environments where I can tackle new challenges, learn from my peers, and contribute my skills to impactful projects. Whether it's mastering the latest frontend frameworks or delving into UX design principles, I'm always eager to expand my knowledge and skill set.
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><div align="center">
+<em>I love connecting with different people so I'll be happy to meet you more!</em> 😊<div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 </div>
