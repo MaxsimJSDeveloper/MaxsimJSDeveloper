@@ -39,16 +39,16 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 
 <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="icons/figma.png" width="30"/></a>
 <a href="https://github.com/" title="GitHub" target="_blank"><img src="icons/github.png" width="30"/></a>
+<a href="https://git-scm.com/" title="Git" target="_blank"><img src="icons/git.png" width="30"/></a>
 <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30"/></a>
-<a href="https://www.npmjs.com/" title="NPM" target="_blank"><img src="icons/npm.png" width="30"/></a>
-<a href="https://www.mamp.info/en/mamp/mac/" title="Mamp" target="_blank"><img src="icons/mamp.png" width="30"/></a>
 <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="icons/postman.png" width="30"/></a>
 <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/mongodb.png" height="35" width="35"/></a>
+<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/docker.png" width="35"/></a>
 <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30"/></a>
-<a href="https://git-scm.com/" title="Git" target="_blank"><img src="icons/git.png" width="30"/></a>
 
 **Learning:**
 
+<a href="https://nestjs.com/" title="Nestjs" target="_blank"><img src="icons/nestJS.png" width="30"/></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="icons/postgresql.png" width="30"/></a>
 <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="30"/></a>
 <a href="https://www.php.net/" title="PHP" target="_blank"><img src="icons/php.png" width="30"/></a>
