@@ -1,12 +1,15 @@
-<div align="center"><h1>Hi there, I'm Max</h1> Full stack Developer</div>
+<div align="center"><h1>Hi there, I'm Max</h1> <p>Full stack Developer</p></div>
 
 <h2>Experience</h2>
 
+<div style="margin-bottom: 20px">
+<div style="margin-bottom: 10px">
 🚀 I have hands-on experience working on commercial projects where I used my knowledge of TypeScript and React to bring website designs to life. There are also team and pet projects, you can check them out below.
+</div>
 
 👨‍💻 During my studies, I actively participated in team projects, used the above-mentioned technologies to implement front-end and back-end. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
-##
+</div>
 
 <div style="margin-bottom: 20px">
 <div align="center">
