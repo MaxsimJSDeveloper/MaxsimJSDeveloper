@@ -1,4 +1,6 @@
-<img src="./bg.png">
+<div style="width: 100%;">
+  <img src="./bg.png" style="width: 100%;">
+</div>
 
 <div style="margin-bottom: 20px;">
 <div align="center">
