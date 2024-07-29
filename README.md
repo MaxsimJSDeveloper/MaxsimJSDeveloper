@@ -76,11 +76,12 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-<img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="350"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" width="350"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MaxsimJSDeveloper's GitHub Stats" width="250"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" /></div>
+</div>
 
 **Contacts:**
 
