@@ -1,14 +1,14 @@
-# Hi, 👋 my name is Max, I am Frontend Developer
+# Hi, 👋 my name is Max, I am Full stack Developer
 
 ## About Me
 
-I'm a passionate web developer with a strong foundation in JavaScript and React. My journey into the world of programming began with a keen interest in web development, and since then, I've been on an exciting learning curve, constantly honing my skills and exploring new technologies.
+I'm a passionate web developer with a strong foundation in TypeScript React and Node.js. I am particularly interested in participating in team projects and learning the latest technologies in web development.
 
 ## Experience
 
-🚀 I have hands-on experience working on commercial projects where I've leveraged my expertise in JavaScript and React to bring website designs to life. Collaborating closely with designers and other team members, I've been involved in every stage of the development process, from concept to deployment.
+🚀 I have hands-on experience working on commercial projects where I used my knowledge of TypeScript and React to bring website designs to life. There are also team and pet projects, you can check them out below.
 
-👨‍💻 During my academic journey, I actively participated in team projects, taking on various roles such as team leader, scrum master, and developer. These experiences not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
+👨‍💻 During my studies, I actively participated in team projects, used the above-mentioned technologies to implement front-end and back-end. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
 <p align="left">
 <a href="https://codetime.dev/ua/dashboard" target="_blank">
@@ -27,45 +27,77 @@ I'm a passionate web developer with a strong foundation in JavaScript and React.
 
 **Technologies:**
 
-<a href="https://nodejs.org/en" title="Node.js" target="_blank"><img src="icons/node.png" width="30"/></a>
-<a href="https://reactjs.org/" title="React" target="_blank"><img src="icons/react.png" width="30"/></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="icons/typescript.png" width="30"/></a>
-<a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="icons/js.png" width="30"/></a>
-<a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="30"/></a>
-<a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="30"/></a>
-<a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="30"/></a>
-
-**Working with:**
-
-<a href="https://www.figma.com/" title="Figma" target="_blank"><img src="icons/figma.png" width="30"/></a>
-<a href="https://github.com/" title="GitHub" target="_blank"><img src="icons/github.png" width="30"/></a>
-<a href="https://git-scm.com/" title="Git" target="_blank"><img src="icons/git.png" width="30"/></a>
-<a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30"/></a>
-<a href="https://www.postman.com/" title="Postman" target="_blank"><img src="icons/postman.png" width="30"/></a>
-<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/mongodb.png" height="35" width="35"/></a>
-<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/docker.png" width="35"/></a>
-<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30"/></a>
-
-**Learning:**
-
-<a href="https://nestjs.com/" title="Nestjs" target="_blank"><img src="icons/nestJS.png" width="30"/></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="icons/postgresql.png" width="30"/></a>
-<a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="30"/></a>
-<a href="https://www.php.net/" title="PHP" target="_blank"><img src="icons/php.png" width="30"/></a>
-<a href="https://developer.wordpress.org/" title="Wordpress" target="_blank"><img src="icons/wordpress.png" height="30"/></a>
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Frontend</td>
+      <td>
+        <a href="https://reactjs.org/" title="React" target="_blank"><img src="icons/react.png" width="30" alt="React" /></a>
+        <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="icons/typescript.png" width="30" alt="TypeScript" /></a>
+        <a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="icons/js.png" width="30" alt="JavaScript" /></a>
+        <a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="30" alt="HTML" /></a>
+        <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="30" alt="CSS" /></a>
+        <a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="30" alt="SASS" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>
+        <a href="https://nodejs.org/en" title="Node.js" target="_blank"><img src="icons/node.png" width="30" alt="Node.js" /></a>
+        <a href="https://expressjs.com/ru/" title="Express" target="_blank"><img src="icons/express.png" width="30" alt="Express" /></a>
+        <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="icons/postgresql.png" width="30" alt="PostgreSQL" /></a>
+        <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/mongodb.png" height="35" width="35" alt="MongoDB" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Tools</td>
+      <td>
+        <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="icons/figma.png" width="30" alt="Figma" /></a>
+        <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/docker.png" width="35" alt="Docker" /></a>
+        <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30" alt="VSCode" /></a>
+        <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="icons/postman.png" width="30" alt="Postman" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Other</td>
+      <td>
+        <a href="https://zustand-demo.pmnd.rs/" title="Zustand" target="_blank"><img src="icons/zustand.png" width="30" alt="Zustand" /></a>
+        <a href="https://redux.js.org/" title="Redux" target="_blank"><img src="icons/redux.png" width="30" alt="Redux" /></a>
+        <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30" alt="Vite" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Learn</td>
+      <td>
+        <a href="https://nestjs.com/" title="NestJS" target="_blank"><img src="icons/nestJS.png" width="30" alt="NestJS" /></a>
+        <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="30" alt="MySQL" /></a>
+        <a href="https://www.php.net/" title="PHP" target="_blank"><img src="icons/php.png" width="30" alt="PHP" /></a>
+        <a href="https://developer.wordpress.org/" title="WordPress" target="_blank"><img src="icons/wordpress.png" height="30" alt="WordPress" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Contacts:**
 
 <div style="display: flex; align-items: center;">
-<a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="30"/></a>
-<a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="30"/></a>
-<a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="45" height="45"/></a></div>
+  <a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="30" alt="Telegram" /></a>
+  <a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="30" alt="LinkedIn" /></a>
+  <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="45" height="45" alt="Gmail" /></a>
+</div>
 
 ## Career Goals
 
-🎯 My ultimate goal is to excel in frontend development, continuously pushing the boundaries of what's possible on the web. I thrive in environments where I can tackle new challenges, learn from my peers, and contribute my skills to impactful projects. Whether it's mastering the latest frontend frameworks or delving into UX design principles, I'm always eager to expand my knowledge and skill set.
+🎯 My ultimate goal is to succeed in full-stack development while constantly pushing the boundaries of what's possible on the web. I thrive in an environment where I can take on new challenges, learn from my colleagues, and use my skills on projects. At the moment, I want to learn the Next.js and Nest frameworks, as well as relational databases.
 
-<em>I love connecting with different people so I'll be happy to meet you more!</em> 😊<div align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em>I love connecting with different people so I'll be happy to meet you more!</em> 😊
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Gif"/>
 </div>
