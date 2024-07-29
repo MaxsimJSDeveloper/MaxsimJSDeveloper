@@ -10,6 +10,7 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
 
 👨‍💻 During my studies, I actively participated in team projects, used the above-mentioned technologies to implement front-end and back-end. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
+<div style="margin-bottom: 20px;">
 <div align="center">
   <table style="display=block;">
     <thead>
@@ -74,23 +75,21 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
   <img src="https://visitcount.itsvg.in/api?id=MaxsimJSDeveloper&label=Profile%20Views&pretty=true" height="20"/>
 </a>
 </div>
+</div>
 
-<div style="height:50;"><div>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
 <img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="380"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" width="395"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" width="400"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MaxsimJSDeveloper's GitHub Stats" width="300"/>
 </div>
 
-**Contacts:**
-
-<div style="display: flex; align-items: center;">
+<div align="center">
+<p>Сontact me</p>
   <a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="30" alt="Telegram" /></a>
   <a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="30" alt="LinkedIn" /></a>
-  <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="45" height="45" alt="Gmail" /></a>
+  <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="30" alt="Gmail" /></a>
 </div>
 
 ## Career Goals
