@@ -1,6 +1,6 @@
-# Hi, 👋 my name is Max, I am Full stack Developer
+<div align="center"><h1>Hi there, I'm Max</h1> Full stack Developer</div>
 
-## Experience
+<h2>Experience</h2>
 
 🚀 I have hands-on experience working on commercial projects where I used my knowledge of TypeScript and React to bring website designs to life. There are also team and pet projects, you can check them out below.
 
@@ -8,7 +8,7 @@
 
 ##
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 20px">
 <div align="center">
   <table style="display=block;">
     <thead>
@@ -77,7 +77,7 @@
 
 ##
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px">
 <img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="380"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" width="405"/>
