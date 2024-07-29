@@ -1,9 +1,5 @@
 # Hi, 👋 my name is Max, I am Full stack Developer
 
-## About Me
-
-I'm a passionate web developer with a strong foundation in TypeScript React and Node.js. I am particularly interested in participating in team projects and learning the latest technologies in web development.
-
 ## Experience
 
 🚀 I have hands-on experience working on commercial projects where I used my knowledge of TypeScript and React to bring website designs to life. There are also team and pet projects, you can check them out below.
@@ -84,7 +80,7 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
 <img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="380"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" width="405"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MaxsimJSDeveloper's GitHub Stats" width="300"/>
 </div>
