@@ -10,79 +10,79 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
 
 👨‍💻 During my studies, I actively participated in team projects, used the above-mentioned technologies to implement front-end and back-end. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
-<p align="left">
+<div style="display: flex; justify-content: center;     align-items: center;">
 <a href="https://codetime.dev/ua/dashboard" target="_blank">
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0" height="20">
 </a>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=MaxsimJSDeveloper&label=Profile%20Views&pretty=true" height="20"/>
 </a>
-</p>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" />
+<div style="display: flex; justify-content: center;     align-items: center;">
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Frontend</td>
+        <td>
+          <a href="https://reactjs.org/" title="React" target="_blank"><img src="icons/react.png" width="30" alt="React" /></a>
+          <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="icons/typescript.png" width="30" alt="TypeScript" /></a>
+          <a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="icons/js.png" width="30" alt="JavaScript" /></a>
+          <a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="30" alt="HTML" /></a>
+          <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="30" alt="CSS" /></a>
+          <a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="30" alt="SASS" /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>Backend</td>
+        <td>
+          <a href="https://nodejs.org/en" title="Node.js" target="_blank"><img src="icons/node.png" width="30" alt="Node.js" /></a>
+          <a href="https://expressjs.com/ru/" title="Express" target="_blank"><img src="icons/express.png" width="30" alt="Express" /></a>
+          <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="icons/postgresql.png" width="30" alt="PostgreSQL" /></a>
+          <a href="https://www.mongodb.com/" title="MongoDB" target="_blank"><img src="icons/mongodb.png" height="35" width="35" alt="MongoDB" /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tools</td>
+        <td>
+          <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="icons/figma.png" width="30" alt="Figma" /></a>
+          <a href="https://www.docker.com/" title="Docker" target="_blank"><img src="icons/docker.png" width="35" alt="Docker" /></a>
+          <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30" alt="VSCode" /></a>
+          <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="icons/postman.png" width="30" alt="Postman" /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>Other</td>
+        <td>
+          <a href="https://zustand-demo.pmnd.rs/" title="Zustand" target="_blank"><img src="icons/zustand.png" width="30" alt="Zustand" /></a>
+          <a href="https://redux.js.org/" title="Redux" target="_blank"><img src="icons/redux.png" width="30" alt="Redux" /></a>
+          <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30" alt="Vite" /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>Learn</td>
+        <td>
+          <a href="https://nestjs.com/" title="NestJS" target="_blank"><img src="icons/nestJS.png" width="30" alt="NestJS" /></a>
+          <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="30" alt="MySQL" /></a>
+          <a href="https://www.php.net/" title="PHP" target="_blank"><img src="icons/php.png" width="30" alt="PHP" /></a>
+          <a href="https://developer.wordpress.org/" title="WordPress" target="_blank"><img src="icons/wordpress.png" height="30" alt="WordPress" /></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MaxsimJSDeveloper's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="500"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MaxsimJSDeveloper's GitHub Stats" width="250"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" />
-
-**Technologies:**
-
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Frontend</td>
-      <td>
-        <a href="https://reactjs.org/" title="React" target="_blank"><img src="icons/react.png" width="30" alt="React" /></a>
-        <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="icons/typescript.png" width="30" alt="TypeScript" /></a>
-        <a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="icons/js.png" width="30" alt="JavaScript" /></a>
-        <a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="30" alt="HTML" /></a>
-        <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="30" alt="CSS" /></a>
-        <a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="30" alt="SASS" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>Backend</td>
-      <td>
-        <a href="https://nodejs.org/en" title="Node.js" target="_blank"><img src="icons/node.png" width="30" alt="Node.js" /></a>
-        <a href="https://expressjs.com/ru/" title="Express" target="_blank"><img src="icons/express.png" width="30" alt="Express" /></a>
-        <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="icons/postgresql.png" width="30" alt="PostgreSQL" /></a>
-        <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/mongodb.png" height="35" width="35" alt="MongoDB" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>Tools</td>
-      <td>
-        <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="icons/figma.png" width="30" alt="Figma" /></a>
-        <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/docker.png" width="35" alt="Docker" /></a>
-        <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30" alt="VSCode" /></a>
-        <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="icons/postman.png" width="30" alt="Postman" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>Other</td>
-      <td>
-        <a href="https://zustand-demo.pmnd.rs/" title="Zustand" target="_blank"><img src="icons/zustand.png" width="30" alt="Zustand" /></a>
-        <a href="https://redux.js.org/" title="Redux" target="_blank"><img src="icons/redux.png" width="30" alt="Redux" /></a>
-        <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30" alt="Vite" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>Learn</td>
-      <td>
-        <a href="https://nestjs.com/" title="NestJS" target="_blank"><img src="icons/nestJS.png" width="30" alt="NestJS" /></a>
-        <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="30" alt="MySQL" /></a>
-        <a href="https://www.php.net/" title="PHP" target="_blank"><img src="icons/php.png" width="30" alt="PHP" /></a>
-        <a href="https://developer.wordpress.org/" title="WordPress" target="_blank"><img src="icons/wordpress.png" height="30" alt="WordPress" /></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 **Contacts:**
 
