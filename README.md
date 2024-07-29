@@ -87,10 +87,11 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
 
 <div align="center">
 <p>Сontact me</p>
-<div  style="display: flex;
-    align-items: center;   justify-content: center;">=><a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="40" alt="Telegram" /></a>
+<img src="icons/right.png" width="40" />
+  <a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="40" alt="Telegram" /></a>
   <a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="40" alt="LinkedIn" /></a>
-  <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="40" alt="Gmail" /></a> <=</div>
+  <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="40" alt="Gmail" /></a>
+  <img src="icons/left.png" width="40" />
 </div>
 
 <h2 style="margin-bottom: 0;">Career Goals</h2>
