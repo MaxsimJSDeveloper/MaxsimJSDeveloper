@@ -1,6 +1,6 @@
-<div align="center"><h1>Hi there, I'm Max</h1> <p>Full stack Developer</p></div>
+<div align="center"><h1 style="margin-bottom: 0;">Hi there, I'm Max</h1> <p>Full stack Developer</p></div>
 
-<h2>Experience</h2>
+<h2 style="margin-bottom: 0;">Experience</h2>
 
 <div style="margin-bottom: 20px">
 <div style="margin-bottom: 10px">
@@ -78,8 +78,6 @@
 </div>
 </div>
 
-##
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px">
 <img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="380"/>
 
@@ -95,7 +93,7 @@
   <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="30" alt="Gmail" /></a>
 </div>
 
-## Career Goals
+<h2 style="margin-bottom: 0;">Career Goals</h2>
 
 🎯 My ultimate goal is to succeed in full-stack development while constantly pushing the boundaries of what's possible on the web. I thrive in an environment where I can take on new challenges, learn from my colleagues, and use my skills on projects. At the moment, I want to learn the Next.js and Nest frameworks, as well as relational databases.
 
