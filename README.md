@@ -85,15 +85,6 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MaxsimJSDeveloper's GitHub Stats" width="300"/>
 </div>
 
-<div align="center">
-<p>Сontact me</p>
-<img src="icons/right.png" width="40" />
-  <a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="40" alt="Telegram" /></a>
-  <a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="40" alt="LinkedIn" /></a>
-  <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="40" alt="Gmail" /></a>
-  <img src="icons/left.png" width="40" />
-</div>
-
 <h2 style="margin-bottom: 0;">Career Goals</h2>
 
 🎯 My ultimate goal is to succeed in full-stack development while constantly pushing the boundaries of what's possible on the web. I thrive in an environment where I can take on new challenges, learn from my colleagues, and use my skills on projects. At the moment, I want to learn the Next.js and Nest frameworks, as well as relational databases.
@@ -102,4 +93,13 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Gif"/>
+</div>
+
+<div align="center">
+<p>Сontact me</p>
+<img src="icons/right.png" width="40" />
+  <a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="40" alt="Telegram" /></a>
+  <a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="40" alt="LinkedIn" /></a>
+  <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="40" alt="Gmail" /></a>
+  <img src="icons/left.png" width="40" />
 </div>
