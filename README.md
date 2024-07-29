@@ -11,15 +11,6 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
 👨‍💻 During my studies, I actively participated in team projects, used the above-mentioned technologies to implement front-end and back-end. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
 <div align="center">
-<a href="https://codetime.dev/ua/dashboard" target="_blank">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0" height="20">
-</a>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MaxsimJSDeveloper&label=Profile%20Views&pretty=true" height="20"/>
-</a>
-</div>
-
-<div align="center">
   <table style="display=block;">
     <thead>
       <tr>
@@ -76,13 +67,20 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
       </tr>
     </tbody>
   </table>
+  <a href="https://codetime.dev/ua/dashboard" target="_blank">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0" height="20">
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MaxsimJSDeveloper&label=Profile%20Views&pretty=true" height="20"/>
+</a>
 </div>
 
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
 <img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="500"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MaxsimJSDeveloper's GitHub Stats" width="250"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" /></div>
 
 **Contacts:**
 
