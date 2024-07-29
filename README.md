@@ -1,15 +1,8 @@
 <div align="center"><h1 style="margin-bottom: 0;">Hi there, I'm Max</h1> <p>Full stack Developer</p></div>
 
-<h2 style="margin-bottom: 0;">Experience</h2>
+<h2> About Me</h2>
 
-<div style="margin-bottom: 20px">
-<div style="margin-bottom: 10px">
-🚀 I have hands-on experience working on commercial projects where I used my knowledge of TypeScript and React to bring website designs to life. There are also team and pet projects, you can check them out below.
-</div>
-
-👨‍💻 During my studies, I actively participated in team projects, used the above-mentioned technologies to implement front-end and back-end. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
-
-</div>
+I'm a passionate web developer with a strong foundation in TypeScript React and Node.js. I am particularly interested in participating in team projects and learning the latest technologies in web development.
 
 <div style="margin-bottom: 20px">
 <div align="center">
@@ -77,6 +70,12 @@
 </a>
 </div>
 </div>
+
+<h2>Experience</h2>
+
+🚀 I have hands-on experience working on commercial projects where I used my knowledge of TypeScript and React to bring website designs to life. There are also team and pet projects, you can check them out below.
+
+👨‍💻 During my studies, I actively participated in team projects, used the above-mentioned technologies to implement front-end and back-end. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px">
 <img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="380"/>
