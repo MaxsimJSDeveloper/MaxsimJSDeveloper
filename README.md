@@ -1,4 +1,4 @@
-<div align="center"><h1 style="margin-bottom: 0;">Hi there, I'm Max</h1> <p>Full stack Developer</p></div>
+<h1 style="margin-bottom: 0;">Hi there, I'm Full stack Developer</h1>
 
 <h2> About Me</h2>
 
