@@ -1,7 +1,5 @@
 <h1 style="margin-bottom: 0;">Hi there, I'm Full stack Developer</h1>
 
-<h2> About Me</h2>
-
 I'm a passionate web developer with a strong foundation in TypeScript React and Node.js. I am particularly interested in participating in team projects and learning the latest technologies in web development.
 
 <div style="margin-bottom: 20px">
