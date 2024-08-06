@@ -27,7 +27,9 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
         <td>Backend</td>
         <td>
           <a href="https://nodejs.org/en" title="Node.js" target="_blank"><img src="icons/node.png" width="40" alt="Node.js" /></a>
+          <a href="https://nestjs.com/" title="NestJS" target="_blank"><img src="icons/nestJS.png" width="40" alt="NestJS" /></a>
           <a href="https://expressjs.com/ru/" title="Express" target="_blank"><img src="icons/express.png" width="40" alt="Express" /></a>
+          <a href="https://graphql.org/" title="GraphQL" target="_blank"><img src="./icons/GraphQL.png" width="40" alt="GraphQL" /></a>
           <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="icons/postgresql.png" width="40" alt="PostgreSQL" /></a>
           <a href="https://www.mongodb.com/" title="MongoDB" target="_blank"><img src="icons/mongodb.png" height="40" width="40" alt="MongoDB" /></a>
         </td>
@@ -44,15 +46,14 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
       <tr>
         <td>Other</td>
         <td>
-          <a href="https://zustand-demo.pmnd.rs/" title="Zustand" target="_blank"><img src="icons/zustand.png" width="40" alt="Zustand" /></a>
           <a href="https://redux.js.org/" title="Redux" target="_blank"><img src="icons/redux.png" width="40" alt="Redux" /></a>
+          <a href="https://zustand-demo.pmnd.rs/" title="Zustand" target="_blank"><img src="icons/zustand.png" width="40" alt="Zustand" /></a>
           <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="40" alt="Vite" /></a>
         </td>
       </tr>
       <tr>
         <td>Learn</td>
         <td>
-          <a href="https://nestjs.com/" title="NestJS" target="_blank"><img src="icons/nestJS.png" width="40" alt="NestJS" /></a>
           <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="40" alt="MySQL" /></a>
           <a href="https://www.php.net/" title="PHP" target="_blank"><img src="icons/php.png" width="40" alt="PHP" /></a>
           <a href="https://developer.wordpress.org/" title="WordPress" target="_blank"><img src="icons/wordpress.png" height="40" alt="WordPress" /></a>
