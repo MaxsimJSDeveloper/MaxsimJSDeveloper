@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=✌️Hi%20there,%20I'm%20Maksym!&section=header&color=0:1a1a2e,100:cfbaf2&reversal=false&textBg=false&fontColor=white&fontAlign=48&fontAlignY=51&descAlign=52&descAlignY=80&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=✌️Hi%20there,%20I'm%20Maksym!&section=header&color=0:1a1a2e,100:9c9cfc&reversal=false&textBg=false&fontColor=white&fontAlign=48&fontAlignY=51&descAlign=52&descAlignY=80&fontSize=60)
 
 ## About me 😊
 
