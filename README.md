@@ -1,4 +1,6 @@
-<h1 style="margin-bottom: 0;">Hi there, I'm Full stack Developer</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=✌️Hi%20there,%20I'm%20Maksym!&section=header&color=0:1a1a2e,100:cfbaf2&reversal=false&textBg=false&fontColor=white&fontAlign=48&fontAlignY=51&descAlign=52&descAlignY=80&fontSize=60)
+
+## About me 😊
 
 I'm a passionate web developer with a strong foundation in TypeScript React and Node.js. I am particularly interested in participating in team projects and learning the latest technologies in web development.
 
