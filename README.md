@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=✌️Hi%20there,%20I'm%20Maksym!&section=header&color=0:1a1a2e,100:9c9cfc&reversal=false&textBg=false&fontColor=white&fontAlign=48&fontAlignY=51&descAlign=52&descAlignY=80&fontSize=60)
+
 ## About me 😊
 
 I'm a passionate web developer with a strong foundation in TypeScript React and Node.js. I am particularly interested in participating in team projects and learning the latest technologies in web development.
@@ -22,6 +23,7 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
           <a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="40" alt="HTML" /></a>
           <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="40" alt="CSS" /></a>
           <a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="40" alt="SASS" /></a>
+                  <a href="https://nextjs.org/" title="nextjs" target="_blank"><img src="icons/nextjs.webp" width="40" alt="nextjs" /></a>
         </td>
       </tr>
       <tr>
