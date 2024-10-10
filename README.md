@@ -64,12 +64,12 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
       </tr>
     </tbody>
   </table>
-  <!-- <a href="https://codetime.dev/ua/dashboard" target="_blank">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0" height="20">
+  <a href="https://codetime.dev/ua/dashboard" target="_blank">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26542%26project%3D%26in=0">
 </a>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=MaxsimJSDeveloper&label=Profile%20Views&pretty=true" height="20"/>
-</a> -->
+</a>
 </div>
 </div>
 
