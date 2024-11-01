@@ -34,6 +34,7 @@ I'm a passionate web developer with a strong foundation in TypeScript React and 
           <a href="https://expressjs.com/ru/" title="Express" target="_blank"><img src="icons/express.png" width="40" alt="Express" /></a>
           <a href="https://graphql.org/" title="GraphQL" target="_blank"><img src="./icons/GraphQL.png" width="40" alt="GraphQL" /></a>
           <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="icons/postgresql.png" width="40" alt="PostgreSQL" /></a>
+                    <a href="https://www.mysql.com/" title="mySQL" target="_blank"><img src="icons/mySQL.png" width="40" alt="mySQL" /></a>
           <a href="https://www.mongodb.com/" title="MongoDB" target="_blank"><img src="icons/mongodb.png" height="40" width="40" alt="MongoDB" /></a>
         </td>
       </tr>
