@@ -99,6 +99,10 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
 </div>
 
 <div align="center">
-  <p>Contact me</p>
-  <img src="icons/right.png" width="40" />
-  <a href="https://t.me/JsWEB_Developer" title="
+<p>Сontact me</p>
+<img src="icons/right.png" width="40" />
+  <a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="40" alt="Telegram" /></a>
+  <a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="40" alt="LinkedIn" /></a>
+  <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="40" alt="Gmail" /></a>
+  <img src="icons/left.png" width="40" />
+</div>
