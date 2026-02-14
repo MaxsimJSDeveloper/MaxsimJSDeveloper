@@ -86,9 +86,9 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
 👨‍💻 During my studies, I actively participated in team projects, using the aforementioned technologies to implement front-end and back-end solutions. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Langs" height="170"/>
 </div>
 
 <h2 style="margin-bottom: 0;">Career Goals</h2>
