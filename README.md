@@ -15,10 +15,17 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
       </thead>
       <tbody>
         <tr>
-          <td>Frontend</td>
+        <tr>
+          <td>Languages</td>
           <td>
             <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="icons/typescript.png" width="40" alt="TypeScript" /></a>
             <a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="icons/js.png" width="40" alt="JavaScript" /></a>
+            <a href="https://uk.wikipedia.org/wiki/C%2B%2B" title="C++" target="_blank"><img src="icons/c++.png" width="40" alt="C++" /></a>
+            <a href="https://www.c-language.org/" title="C" target="_blank"><img src="icons/c.png" height="40" alt="C" /></a>
+          </td>
+        </tr>
+          <td>Frontend</td>
+          <td>
             <a href="https://nextjs.org/" title="Next.js" target="_blank"><img src="icons/nextjs.webp" width="40" alt="Next.js" /></a>
             <a href="https://reactjs.org/" title="React" target="_blank"><img src="icons/react.png" width="40" alt="React" /></a>
             <a href="https://vuejs.org/" title="Vue" target="_blank"><img src="icons/vue.png" width="40" alt="Vue" /></a>
@@ -65,10 +72,11 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
           </td>
         </tr>
         <tr>
-          <td>Learn</td>
+          <td>AI</td>
           <td>
-            <a href="https://www.php.net/" title="PHP" target="_blank"><img src="icons/php.png" width="40" alt="PHP" /></a>
-            <a href="https://developer.wordpress.org/" title="WordPress" target="_blank"><img src="icons/wordpress.png" height="40" alt="WordPress" /></a>
+            <a href="https://chatgpt.com/" title="ChatGPT" target="_blank"><img src="icons/ChatGPT.png" width="40" alt="ChatGPT" /></a>
+            <a href="https://gemini.google.com/" title="gemini" target="_blank"><img src="icons/gemini.png" height="40" alt="gemini" /></a>
+            <a href="https://claude.ai/" title="claude" target="_blank"><img src="icons/claude.png" height="45" alt="claude" /></a>
           </td>
         </tr>
       </tbody>
