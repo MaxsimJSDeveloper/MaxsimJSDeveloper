@@ -22,6 +22,7 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
             <a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="icons/js.png" width="40" alt="JavaScript" /></a>
             <a href="https://uk.wikipedia.org/wiki/C%2B%2B" title="C++" target="_blank"><img src="icons/c++.png" width="40" alt="C++" /></a>
             <a href="https://www.c-language.org/" title="C" target="_blank"><img src="icons/c.png" height="40" alt="C" /></a>
+            <a href="https://learn.microsoft.com/uk-ua/dotnet/csharp/tour-of-csharp/" title="C#" target="_blank"><img src="icons/csharp.png" height="37" alt="C#" /></a>
           </td>
         </tr>
           <td>Frontend</td>
